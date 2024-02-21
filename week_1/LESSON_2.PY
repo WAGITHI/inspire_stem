@@ -1,0 +1,7 @@
+print("My name is Angela")
+print("I am 18 years old")
+print("I come from Nairobi")
+print("I hate education with all the fibre in my being")
+print("--------------------------")
+print("**************************")
+print("##########################")
