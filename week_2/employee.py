@@ -1,6 +1,7 @@
 #This is a programme to compute payment of an employee
 #Date:21/02/2024
 #Name:Angela
+#redo with functions above 100k give 30% raise between 100-150k 15% raise above 150k 5% raise.
 
 n=input("Enter name:")
 m=input("Enter age:")
