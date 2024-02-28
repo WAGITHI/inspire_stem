@@ -1,7 +1,7 @@
 #append
 #insert
 #remove
-#pop(-remove item 
+#pop()-removes last item so don't specify
 #index()
 #count()
 #sort()
@@ -11,5 +11,9 @@
 items=["pen","eraser","sharpener","set","water bottle"]
 print(items)
 items.append("cipladon")
+print("\n")
+print(items)
+
+items.pop()
 print("\n")
 print(items)
