@@ -1,0 +1,21 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1{
+    color: blueviolet;
+}
+input[type="text"]{
+    padding: 16px;
+    font-size: 16px;
+}
+button{
+    padding: 32px;
+    font-size: 16px;
+    background-color:cyan;
+    color: beige;
+    cursor: pointer;
+}
+button:hover{
+    background-color: chartreuse;
+}
